@@ -47,6 +47,7 @@ Format:
 | Aaron Killen | [akillen](https://github.com/akillen) | C#, VB.net enterprise experience. PHP in a past life. Currently learning Ruby and game dev. |
 | Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
 | Abhinav Desor | [adesor](https://github.com/adesor) | I know Java, C and Python. Looking forward to contributing to open source projects. |
+| Adam Allard | [amallard](https://github.com/Amallard) | I know C++, Python, and SQL. |
 | Adam Jasiura | [BigBlue79](https://github.com/BigBLue79) | Got a handful of Ruby/Rails and vanilla JS hours under my belt.  Using this to flex out of my comfort zone and daily code duties a a data aggregator. |    
 | Adam W. Goh | [adamwgoh](https://github.com/adamwgoh) | understands the fundamental of C/C++ and Java, getting used to Python and loves some programming time under my belt.|
 | Adam Novitch | [adamnovitch](https://github.com/adamnovitch) | Intermediate level C/C++, Qt, Java.  Beginner with Python, HTML/CSS, SQL. |
